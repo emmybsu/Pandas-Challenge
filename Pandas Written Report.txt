@@ -1,0 +1,8 @@
+Pandas Challenge Written Analysis
+Emily Cruz
+
+The data file from Heroes of Pymoli provides clarity to leadership regarding the users of the game.
+Three points of interest derived from the file are:
+1. The file shows there are more "males" than "females" or "other" playing the game.
+2. The age group with the most players is in the 20-24 years group.
+3. The user that spends the most is Lisosia93.  This user has spent a total of $18.96 on 5 items.
